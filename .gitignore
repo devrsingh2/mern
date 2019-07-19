@@ -1,0 +1,9 @@
+
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/react-redux-admin.iml
+/.idea/workspace.xml
+/dist/app-bundle.js
+/dist/index.html
+/node_modules/
+/yarn.lock
